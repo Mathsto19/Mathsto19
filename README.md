@@ -13,17 +13,14 @@
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/matheusaugustoolveira">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mpoliveira.eng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="http://lattes.cnpq.br/">
-    <img src="https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusaugustoolveira)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpoliveira.eng@gmail.com)
+&nbsp;&nbsp;
+[![Lattes](https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0478101315062053)
+&nbsp;&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=Mathsto19&color=0072ff&style=for-the-badge&label=Visitors)
 
-  <img src="https://komarev.com/ghpvc/?username=Mathsto19&color=0072ff&style=for-the-badge&label=Visitors" alt="Visitors" />
 
   <br/><br/>
 </div>
