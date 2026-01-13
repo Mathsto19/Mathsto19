@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="http://lattes.cnpq.br/">
-    <img src="https://img.shields.io/badge/Lattes_CV-263238?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" />
+    <img src="https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=Mathsto19&color=0072ff&style=for-the-badge&label=Visitors" alt="Visitors" />
