@@ -26,9 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mathsto19&color=0072ff&style=for-the-badge&label=Visitors" alt="Visitors" />
 
   <br/><br/>
-
-  <b>📍 Pato Branco, Paraná, Brazil</b>
-
 </div>
 
 ---
