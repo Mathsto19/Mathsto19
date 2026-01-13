@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Matheus%20Augusto%20de%20P.%20Oliveira&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Matheus%20Augusto&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Header"
   />
