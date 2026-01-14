@@ -119,7 +119,7 @@ Desktop application focused on UI/UX and mathematical visualization, built as a 
 </td>
 <td width="50%" valign="top">
 
-### [BenSPMA](https://github.com/Mathsto19/BenSPMA)
+### [BenaSPMA](https://github.com/Mathsto19/BenaSPMA)
 
 Web system for scheduling and appointment management, designed around a clean workflow and a responsive interface.
 
