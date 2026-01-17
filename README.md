@@ -19,7 +19,7 @@
 &nbsp;&nbsp;
 [![Lattes](https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0478101315062053)
 &nbsp;&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=Mathsto19&color=0072ff&style=for-the-badge&label=Visitors)
+[![CV](https://img.shields.io/badge/Download_CV-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV-Matheus.pdf)
 
 
   <br/><br/>
