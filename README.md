@@ -7,7 +7,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+C+%7C+C%2B%2B+%7C+Embedded+Systems;Building+practical+and+well-structured+software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+C/C%2B%2B+%7C+Computer+Vision+%26+Embedded;Building+tools+for+biometrics+and+ML+pipelines"
     alt="Typing"
   />
 
@@ -19,7 +19,7 @@
 &nbsp;&nbsp;
 [![Lattes](https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0478101315062053)
 &nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/Download_CV-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV-Matheus.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV-MatheusAugusto.pdf)
 
 
   <br/><br/>
