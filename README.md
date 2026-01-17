@@ -19,7 +19,7 @@
 &nbsp;&nbsp;
 [![Lattes](https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0478101315062053)
 &nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/Download_CV-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV%20-%20Matheus%20Augusto.pdf)
+[![Resume](https://img.shields.io/badge/Resume-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV%20-%20Matheus%20Augusto.pdf)
   <br/><br/>
 </div>
 
@@ -31,12 +31,12 @@ Computer Engineering student at UTFPR and CNPq Research Fellow focused on Comput
 I build software that goes from prototype to real projects: organized, documented, and maintainable.
 Currently working on biometric data tooling: annotation, alignment/normalization, and reproducible pipelines for ML experiments.
 
-**Open to:** remote research collaboration and internships (CV, biometrics, Python tooling).
+**Open to:** remote research collaboration and internships (Computer Vision, biometrics, Python tooling, embedded systems).
 
 **What I build (in practice):**
-- CV tooling and data workflows in Python
+- Computer Vision tooling and data workflows in Python
 - Maintainable projects: structure, docs, and reproducible runs
-- System integration and prototyping when it makes sense
+- Hardware-software integration and prototyping
 
 ---
 
