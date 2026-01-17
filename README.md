@@ -19,9 +19,7 @@
 &nbsp;&nbsp;
 [![Lattes](https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0478101315062053)
 &nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/Download_CV-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV-MatheusAugusto.pdf)
-
-
+[![CV](https://img.shields.io/badge/Download_CV-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/blob/main/CV%20-%20Matheus%20Augusto.pdf)
   <br/><br/>
 </div>
 
@@ -146,7 +144,7 @@ Web system for scheduling and appointment management, designed around a clean wo
 
 Working on pipeline development and tools for biometric analysis and processing, including alignment routines and annotation tools to support consistent outputs.
 
-**Recent Publications (2025):**
+**Recent Publications:**
 - *Isotropic growth analysis in newborn fingerprints: studies on composition and biometric development* — SEI/SICITE UTFPR, Curitiba. [↗](https://www.even3.com.br/anais/sei-sicite-2025-593680/1262789-analise-do-crescimento-isotropico-em-impressoes-digitais-de-recem-nascidos--estudos-sobre-composicao-e-desenvolv)
 - *BenaPRO: annotation and error classification tool for neonatal fingerprints* — UTFPR Tech Week, Pato Branco. [↗](https://www.even3.com.br/anais/anais-semana-tecnologica-utfpr/1332530-benapro---ferramenta-para-anotacao-e-classificacao-de-erros-em-impressoes-digitais-neonatais)
 - *M.T.E.X: autonomous mobile robotics for science outreach* — UTFPR Tech Week, Pato Branco. [↗](https://www.even3.com.br/anais/anais-semana-tecnologica-utfpr/1332524-mtex--robotica-movel-autonoma-para-divulgacao-cientifica)
