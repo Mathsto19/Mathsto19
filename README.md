@@ -7,7 +7,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+Computer+Vision+%26+Embedded+Systems;Building+tools+for+biometrics+and+ML+pipelines"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+Computer+Vision+%7C+Embedded+Systems;Building+tools+for+biometrics+and+ML+pipelines"
     alt="Typing"
   />
 
