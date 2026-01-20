@@ -7,7 +7,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+C/C%2B%2B+%7C+Computer+Vision+%26+Embedded;Building+tools+for+biometrics+and+ML+pipelines"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+Computer+Vision+%26+Embedded+Systems;Building+tools+for+biometrics+and+ML+pipelines"
     alt="Typing"
   />
 
@@ -43,16 +43,75 @@ Currently working on biometric data tooling: annotation, alignment/normalization
 ## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+<!-- ========================================== -->
+<!-- LINGUAGENS DE PROGRAMAÇÃO -->
+<!-- ========================================== -->
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+
+<br/>
+
+<!-- ========================================== -->
+<!-- COMPUTER VISION & MACHINE LEARNING -->
+<!-- ========================================== -->
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+
+<br/>
+
+<!-- ========================================== -->
+<!-- DATA SCIENCE & ANÁLISE -->
+<!-- ========================================== -->
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+<br/>
+
+<!-- ========================================== -->
+<!-- FRAMEWORKS & DESENVOLVIMENTO -->
+<!-- ========================================== -->
+
+<img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" />
+<img src="https://img.shields.io/badge/Tkinter-092E20?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+<img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide" />
+<img src="https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Kivy" />
+
+<br/>
+
+<!-- ========================================== -->
+<!-- DEVOPS & FERRAMENTAS -->
+<!-- ========================================== -->
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<br/>
+
+<!-- ========================================== -->
+<!-- IDEs & DOCUMENTAÇÃO -->
+<!-- ========================================== -->
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+
 </div>
+
+
 
 ---
 
