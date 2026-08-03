@@ -6,7 +6,7 @@
   alt="Matheus Augusto — Engenheiro de Computação"
 />
 
-**Engenheiro de Computação formado pela UTFPR · Mestrando no PPGEEC/UTFPR**
+**Formado pela UTFPR · Mestrando no PPGEEC/UTFPR**
 
 Desenvolvo soluções que integram **software, processamento de imagens, interfaces técnicas e hardware**.
 
@@ -20,9 +20,9 @@ Desenvolvo soluções que integram **software, processamento de imagens, interfa
 
 ## Sobre
 
-Sou Engenheiro de Computação com experiência em aplicações Python, visão computacional, sistemas embarcados, interfaces homem-máquina e sistemas web de monitoramento.
+Sou Engenheiro de Computação com experiência no desenvolvimento de aplicações em Python, visão computacional, sistemas embarcados, interfaces homem-máquina e sistemas web de monitoramento.
 
-Atuo desde a compreensão do problema e prototipação até a implementação, integração, testes e validação prática. Durante minha experiência na Noctua Ltda., trabalhei com desenvolvimento web, STM32, Nextion, controle de motores e implantação de soluções em campo.
+Atuo desde a compreensão do problema e a prototipação até a implementação, integração, realização de testes e validação prática. Durante minha experiência na Noctua Ltda., trabalhei com desenvolvimento web, STM32, Nextion, controle de motores e implantação de soluções em campo.
 
 ### Áreas de atuação
 
@@ -112,22 +112,17 @@ Sistema web para acompanhamento de propriedades, tanques, equipamentos, indicado
 ![Nextion](https://img.shields.io/badge/Nextion-1E90FF?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-### Ferramentas e conhecimentos adicionais
-
-<div align="center">
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
-### Formação
+---
+
+## Formação
 
 - **Mestrado em andamento — PPGEEC/UTFPR.**
 - **Engenharia de Computação — UTFPR.**
