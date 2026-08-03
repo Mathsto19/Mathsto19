@@ -1,279 +1,157 @@
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Matheus%20Augusto&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    width="100%"
-    alt="Header"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:006DAA,100:00B4D8&height=210&section=header&text=Matheus%20Augusto&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%7C%20Software%20%C2%B7%20Vis%C3%A3o%20Computacional%20%C2%B7%20Sistemas%20Embarcados&descAlignY=60&descSize=17"
+  width="100%"
+  alt="Matheus Augusto — Engenheiro de Computação"
+/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=33EFF2&center=true&vCenter=true&width=980&lines=Computer+Engineering+Student+at+UTFPR+(Brazil);CNPq+Research+Fellow+(Computer+Vision+%26+Biometrics);Python+%7C+Computer+Vision+%7C+Embedded+Systems;Building+tools+for+biometrics+and+ML+pipelines"
-    alt="Typing"
-  />
+**Engenheiro de Computação formado pela UTFPR · Mestrando no PPGEEC/UTFPR**
 
-  <br/><br/>
+Desenvolvo soluções que integram **software, processamento de imagens, interfaces técnicas e hardware**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusaugustoolveira)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpoliveira.eng@gmail.com)
-&nbsp;&nbsp;
-[![Lattes](https://img.shields.io/badge/Lattes-263238?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/0478101315062053)
-&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-0072ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mathsto19/Mathsto19/raw/main/CV%20-%20Matheus%20Augusto.pdf)
-  <br/><br/>
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00B4D8?style=for-the-badge)](https://mathsto19.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusaugustoolveira)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpoliveira.eng@gmail.com)
+
 </div>
 
 ---
 
-## About Me
+## Sobre
 
-Computer Engineering student at UTFPR and CNPq Research Fellow focused on Computer Vision and Biometrics.  
-I build software that goes from prototype to real projects: organized, documented, and maintainable.
-Currently working on biometric data tooling: annotation, alignment/normalization, and reproducible pipelines for ML experiments.
+Sou Engenheiro de Computação com experiência em aplicações Python, visão computacional, sistemas embarcados, interfaces homem-máquina e sistemas web de monitoramento.
 
-**Open to:** remote research collaboration and internships (Computer Vision, biometrics, Python tooling, embedded systems).
+Atuo desde a compreensão do problema e prototipação até a implementação, integração, testes e validação prática. Durante minha experiência na Noctua Ltda., trabalhei com desenvolvimento web, STM32, Nextion, controle de motores e implantação de soluções em campo.
 
-**What I build (in practice):**
-- Computer Vision tooling and data workflows in Python
-- Maintainable projects: structure, docs, and reproducible runs
-- Hardware-software integration and prototyping
+### Áreas de atuação
+
+| Software | Visão computacional | Sistemas embarcados |
+|:---:|:---:|:---:|
+| Python, aplicações desktop e web. | Processamento de imagens, treinamento e validação de modelos. | ESP32, STM32, firmware, automação e integração com hardware. |
 
 ---
 
-## Tech Stack
+# Projetos em destaque
+
+## [BenaZub](https://github.com/Mathsto19/BenaZub)
+
+![Código público](https://img.shields.io/badge/código-público-2EA44F?style=flat-square)
+![Python e ML](https://img.shields.io/badge/foco-Python%20e%20ML-3776AB?style=flat-square)
+
+Aplicação desktop para classificação multirrótulo de imagens biométricas, revisão humana de predições e treinamento incremental.
+
+**Minha atuação:** Projetei e implementei a interface, o fluxo de dados, a inferência, o treinamento, a validação, a calibração de limiares e a exportação de resultados.
+
+**Tecnologias:** Python, PyQt6, PyTorch, TorchVision e EfficientNet-B0.
+
+[**Ver repositório →**](https://github.com/Mathsto19/BenaZub)
+
+---
+
+## BenaLed
+
+![Código público](https://img.shields.io/badge/código-público-2EA44F?style=flat-square)
+![Software e hardware](https://img.shields.io/badge/foco-software%20%2B%20hardware-F59E0B?style=flat-square)
+
+Sistema interativo para criação e exibição de desenhos, imagens e animações em uma matriz LED 32×32.
+
+**Minha atuação:** Participei da concepção e do desenvolvimento da interface, do firmware para ESP32, da comunicação em tempo real e dos testes do painel físico.
+
+**Tecnologias:** C, ESP32, ESP-IDF, FreeRTOS, JavaScript, WebSocket e WS2812B.
+
+[**Aplicação →**](https://github.com/Mathsto19/BenaLed) ·
+[**Firmware e hardware →**](https://github.com/Mathsto19/BenaLed-Hardware)
+
+---
+
+## Sistema Tentáculos
+
+![Projeto profissional](https://img.shields.io/badge/contexto-projeto%20profissional-6F42C1?style=flat-square)
+![Código privado](https://img.shields.io/badge/código-não%20público-555555?style=flat-square)
+![Validação em campo](https://img.shields.io/badge/validação-em%20campo-2E8B57?style=flat-square)
+
+Interface homem-máquina para parametrização e controle de uma máquina agrícola integrada a um STM32.
+
+**Minha atuação:** Participei do desenvolvimento das telas Nextion, da comunicação com o STM32, do controle de motores, dos testes de bancada e da implantação em campo.
+
+**Tecnologias:** STM32, Nextion, C, comunicação serial e automação agrícola.
+
+<sub>Projeto apresentado como estudo de caso autorizado. O código-fonte e os arquivos da IHM não são públicos.</sub>
+
+---
+
+## Sistema de Monitoramento
+
+![Projeto profissional](https://img.shields.io/badge/contexto-projeto%20profissional-6F42C1?style=flat-square)
+![Código privado](https://img.shields.io/badge/código-não%20público-555555?style=flat-square)
+
+Sistema web para acompanhamento de propriedades, tanques, equipamentos, indicadores operacionais e alarmes.
+
+**Minha atuação:** Participei da prototipação no Figma e do desenvolvimento da aplicação, contribuindo com telas, componentes, organização dos dados e navegação.
+
+**Tecnologias:** Next.js, Node.js, JavaScript, Figma, Git e GitHub.
+
+<sub>Projeto apresentado com materiais autorizados e dados demonstrativos. O código-fonte não é público.</sub>
+
+---
+
+## Stack principal
 
 <div align="center">
 
-<!-- ========================================== -->
-<!-- LINGUAGENS DE PROGRAMAÇÃO -->
-<!-- ========================================== -->
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-
-<br/>
-
-<!-- ========================================== -->
-<!-- COMPUTER VISION & MACHINE LEARNING -->
-<!-- ========================================== -->
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-
-<br/>
-
-<!-- ========================================== -->
-<!-- DATA SCIENCE & ANÁLISE -->
-<!-- ========================================== -->
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-
-<br/>
-
-<!-- ========================================== -->
-<!-- FRAMEWORKS & DESENVOLVIMENTO -->
-<!-- ========================================== -->
-
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" />
-<img src="https://img.shields.io/badge/Tkinter-092E20?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-<img src="https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide" />
-<img src="https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Kivy" />
-
-<br/>
-
-<!-- ========================================== -->
-<!-- DEVOPS & FERRAMENTAS -->
-<!-- ========================================== -->
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-<br/>
-
-<!-- ========================================== -->
-<!-- IDEs & DOCUMENTAÇÃO -->
-<!-- ========================================== -->
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2C3E50?style=flat-square&logo=freertos&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Nextion](https://img.shields.io/badge/Nextion-1E90FF?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
+### Ferramentas e conhecimentos adicionais
 
+<div align="center">
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## Featured Projects
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### Formação
 
-### [BenaZub](https://github.com/Mathsto19/BenaZub)
+- **Mestrado em andamento — PPGEEC/UTFPR.**
+- **Engenharia de Computação — UTFPR.**
+- **Técnico em Mecatrônica e Automação Industrial — ETEC Martin Luther King.**
 
-Local tool for automatic label prediction, assisted review, and incremental training on biometric image datasets.
+Pesquisa aplicada em biometria neonatal, visão computacional e processamento de imagens.
 
-<i>Built to reduce manual labeling effort while keeping biometric datasets consistent and reviewable.</i>
-
-**Key Features**
-
-* Automatic label prediction for biometric images
-* Human-in-the-loop review workflow
-* Incremental training support for continuous dataset improvement
-* Local-first workflow focused on data control and reproducibility
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Biometrics-6A5ACD?style=flat-square" alt="Biometrics" />
-
-</td>
-<td width="50%" valign="top">
-
-### [BenaHdp](https://github.com/Mathsto19/BenaHdp)
-
-Fingerprint alignment software for neonatal biometric images using minutiae, color information, and delta points.
-
-<i>Designed to support more precise alignment and comparison of neonatal fingerprint images.</i>
-
-**Key Features**
-
-* Alignment based on minutiae and reference points
-* Support for color-based visual comparison
-* Delta point assistance for biometric positioning
-* Workflow focused on neonatal fingerprint analysis
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Image%20Processing-0A66C2?style=flat-square" alt="Image Processing" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [BenaPRO](https://github.com/Mathsto19/BenaPRO)
-
-Processing and annotation tool for neonatal fingerprint images, focused on structured labels and dataset quality control.
-
-<i>Built to create consistent biometric annotations and prepare reliable datasets for machine learning pipelines.</i>
-
-**Key Features**
-
-* Multi-label error annotation workflow
-* Structured exports for ML training
-* Visual inspection and quality control tools
-* Dataset organization for biometric image analysis
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-
-</td>
-<td width="50%" valign="top">
-
-### [BenIan](https://github.com/Mathsto19/BenIan)
-
-Annotation correction tool for neonatal fingerprint images, designed to support dataset review and label consistency.
-
-<i>A complementary tool for reviewing, correcting, and improving biometric image annotations.</i>
-
-**Key Features**
-
-* Review and correction of biometric annotations
-* Support for dataset cleaning workflows
-* Consistency checks for labeled image collections
-* Practical interface for annotation refinement
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt" />
-<img src="https://img.shields.io/badge/Dataset%20Quality-228B22?style=flat-square" alt="Dataset Quality" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [BenaLed](https://github.com/Mathsto19/BenaLed)
-
-Web application for creating, editing, and sending drawings in real time to an LED matrix.
-
-<i>Combines a visual web interface with real-time interaction for hardware-oriented applications.</i>
-
-**Key Features**
-
-* Interactive drawing editor
-* Real-time LED matrix control
-* Web-based interface for hardware interaction
-* Practical integration between software and embedded systems
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/Hardware-555555?style=flat-square" alt="Hardware" />
-
-</td>
-<td width="50%" valign="top">
-
-### [Bena](https://github.com/Mathsto19/Bena)
-
-Image processing software for neonatal fingerprint images, built to support preprocessing, visual analysis, and standardized biometric workflows.
-
-<i>The base project of the BENA ecosystem, focused on preparing neonatal fingerprint images for analysis and downstream tools.</i>
-
-**Key Features**
-
-* Neonatal fingerprint image processing
-* Preprocessing workflow for biometric datasets
-* Support for visual analysis and image standardization
-* Foundation for related BENA tools and experiments
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Biometrics-6A5ACD?style=flat-square" alt="Biometrics" />
-
-</td>
-
-
----
-
-## Research & Publications
-
-**CNPq Research Fellow** — UTFPR / Akiyama Group (2024 – Present)
-
-Working on pipeline development and tools for biometric analysis and processing, including alignment routines and annotation tools to support consistent outputs.
-
-**Recent Publications:**
-- *Isotropic growth analysis in newborn fingerprints: studies on composition and biometric development* — SEI/SICITE UTFPR, Curitiba. [↗](https://www.even3.com.br/anais/sei-sicite-2025-593680/1262789-analise-do-crescimento-isotropico-em-impressoes-digitais-de-recem-nascidos--estudos-sobre-composicao-e-desenvolv)
-- *BenaPRO: annotation and error classification tool for neonatal fingerprints* — UTFPR Tech Week, Pato Branco. [↗](https://www.even3.com.br/anais/anais-semana-tecnologica-utfpr/1332530-benapro---ferramenta-para-anotacao-e-classificacao-de-erros-em-impressoes-digitais-neonatais)
-- *M.T.E.X: autonomous mobile robotics for science outreach* — UTFPR Tech Week, Pato Branco. [↗](https://www.even3.com.br/anais/anais-semana-tecnologica-utfpr/1332524-mtex--robotica-movel-autonoma-para-divulgacao-cientifica)
+[Currículo Lattes](http://lattes.cnpq.br/0478101315062053) ·
+[ORCID](https://orcid.org/0009-0008-5923-7092)
 
 ---
 
 <div align="center">
-  
-  <p>Open to remote internships and R&D collaboration in Biometrics & Computer Vision.</p>
 
-  <br/>
+### Contato
 
-  <sub><i>"Turning complex problems into practical, well-structured software."</i></sub>
+[Portfólio](https://mathsto19.github.io/) ·
+[LinkedIn](https://linkedin.com/in/matheusaugustoolveira) ·
+[E-mail](mailto:mpoliveira.eng@gmail.com)
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"
-    width="100%"
-    alt="Footer"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:006DAA,100:00B4D8&height=100&section=footer"
+  width="100%"
+  alt="Rodapé"
+/>
 
 </div>
