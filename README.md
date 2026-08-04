@@ -12,7 +12,7 @@ Desenvolvo soluções que integram **software, processamento de imagens, interfa
 
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00B4D8?style=for-the-badge)](https://mathsto19.github.io/)
 [![Currículo](https://img.shields.io/badge/CURRÍCULO-6F42C1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mathsto19.github.io/CV%20-%20Matheus.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusaugustoolveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusaugustooliveira)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpoliveira.eng@gmail.com)
 </div>
 
@@ -136,7 +136,7 @@ Pesquisa aplicada em biometria neonatal, visão computacional e processamento de
 
 [Portfólio](https://mathsto19.github.io/) ·
 [Currículo](https://mathsto19.github.io/CV%20-%20Matheus.pdf) ·
-[LinkedIn](https://linkedin.com/in/matheusaugustoolveira) ·
+[LinkedIn](https://linkedin.com/in/matheusaugustooliveira) ·
 [E-mail](mailto:mpoliveira.eng@gmail.com)
 
 <img
