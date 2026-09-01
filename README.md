@@ -3,7 +3,7 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:006DAA,100:00B4D8&height=210&section=header&text=Matheus%20Augusto&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Engenheiro%20de%20Computa%C3%A7%C3%A3o%20%7C%20Software%20%C2%B7%20Vis%C3%A3o%20Computacional%20%C2%B7%20Sistemas%20Embarcados&descAlignY=60&descSize=17"
   width="100%"
-  alt="Matheus Augusto — Engenheiro de Computação"
+  alt="Matheus Augusto - Engenheiro de Computação"
 />
 
 **Formado pela UTFPR · Mestrando no PPGEEC/UTFPR**
@@ -119,9 +119,9 @@ Sistema web para acompanhamento de propriedades, tanques, equipamentos, indicado
 
 ## Formação
 
-- **Mestrado em andamento — PPGEEC/UTFPR.**
-- **Engenharia de Computação — UTFPR.**
-- **Técnico em Mecatrônica e Automação Industrial — ETEC Martin Luther King.**
+- **Mestrado em andamento - PPGEEC/UTFPR.**
+- **Engenharia de Computação - UTFPR.**
+- **Técnico em Mecatrônica e Automação Industrial - ETEC Martin Luther King.**
 
 Pesquisa aplicada em biometria neonatal, visão computacional e processamento de imagens.
 
